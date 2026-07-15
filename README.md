@@ -7,4 +7,4 @@ Batch Processing Engine: Drag and drop multiple files at once. Queue them up and
 
 Smart Compression: Optional built-in compression algorithms to reduce file sizes for web optimization without losing noticeable quality.
 
-Responsive & Accessible UI: A clean, minimalist, and distraction-free interface that works flawlessly on desktops, tablets, and mobile devices..
+Responsive & Accessible UI: A clean, minimalist, and distraction-free interface that works flawlessly on desktops, tablets, and mobile devices.
